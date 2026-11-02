@@ -1,0 +1,8 @@
+aiogram>=3.7,<4
+SQLAlchemy>=2.0,<2.1
+aiosqlite>=0.20
+pydantic-settings>=2.7
+tzdata>=2024.1
+gspread>=6.0,<7
+APScheduler>=3.10,<4
+pytest>=8
